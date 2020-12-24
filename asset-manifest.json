@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfollio-site/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/portfollio-site/static/js/main.9c873c3d.chunk.js",
+    "main.js.map": "/portfollio-site/static/js/main.9c873c3d.chunk.js.map",
+    "runtime-main.js": "/portfollio-site/static/js/runtime-main.98be264e.js",
+    "runtime-main.js.map": "/portfollio-site/static/js/runtime-main.98be264e.js.map",
+    "static/js/2.8e53b280.chunk.js": "/portfollio-site/static/js/2.8e53b280.chunk.js",
+    "static/js/2.8e53b280.chunk.js.map": "/portfollio-site/static/js/2.8e53b280.chunk.js.map",
+    "static/js/3.7c93f2bd.chunk.js": "/portfollio-site/static/js/3.7c93f2bd.chunk.js",
+    "static/js/3.7c93f2bd.chunk.js.map": "/portfollio-site/static/js/3.7c93f2bd.chunk.js.map",
+    "index.html": "/portfollio-site/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/portfollio-site/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8e53b280.chunk.js.LICENSE.txt": "/portfollio-site/static/js/2.8e53b280.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfollio-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98be264e.js",
+    "static/js/2.8e53b280.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9c873c3d.chunk.js"
+  ]
+}
